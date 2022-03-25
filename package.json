@@ -1,7 +1,7 @@
 {
   "name": "@novqigarrix/get-ip-addr",
   "description": "Get your IP Address from anywhere with Puppeteer.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "license": "MIT",
